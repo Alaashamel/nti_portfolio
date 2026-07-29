@@ -1,5 +1,8 @@
 # Nti Portfolio
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Language](https://img.shields.io/badge/language-CSS-informational.svg) ![Last Commit](https://img.shields.io/github/last-commit/Alaashamel/nti_portfolio)
+
+
 Nti Portfolio — a CSS project by Alaashamel.
 
 ## ✨ Features
